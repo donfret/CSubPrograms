@@ -16,7 +16,11 @@
     <configurations />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9979267b-f3b0-47bc-88c8-cb48c7988c84" name="Changes" comment="" />
+    <list default="true" id="9979267b-f3b0-47bc-88c8-cb48c7988c84" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/C4Zadanie4/obj/Debug/net10.0/C4Zadanie4.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/C4Zadanie4/obj/Debug/net10.0/C4Zadanie4.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C4Zadanie4/obj/Debug/net10.0/C4Zadanie4.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/C4Zadanie4/obj/Debug/net10.0/C4Zadanie4.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C4Zadanie4/obj/Debug/net10.0/C4Zadanie4.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C4Zadanie4/obj/Debug/net10.0/C4Zadanie4.csproj.FileListAbsolute.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +32,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "donfret"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/donfret/CSubPrograms.git",
+    "accountId": "ca39973a-21f3-47c0-8ed2-3da9f80ffd3c"
+  }
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/C4Zadanie2/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/C4Zadanie3/Program.cs" root0="FORCE_HIGHLIGHTING" />
@@ -38,6 +54,9 @@
   "fromUser": false
 }]]></component>
   <component name="ProjectId" id="3L61SzX8CyWY3YEtysvPOyrxX5z" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />

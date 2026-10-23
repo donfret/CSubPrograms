@@ -12,3 +12,4 @@ C:\Users\Admin\RiderProjects\C4Zadanie1\C4Zadanie4\obj\Debug\net10.0\refint\C4Za
 C:\Users\Admin\RiderProjects\C4Zadanie1\C4Zadanie4\obj\Debug\net10.0\C4Zadanie4.pdb
 C:\Users\Admin\RiderProjects\C4Zadanie1\C4Zadanie4\obj\Debug\net10.0\C4Zadanie4.genruntimeconfig.cache
 C:\Users\Admin\RiderProjects\C4Zadanie1\C4Zadanie4\obj\Debug\net10.0\ref\C4Zadanie4.dll
+C:\Users\Admin\RiderProjects\C4Zadanie1\C4Zadanie4\obj\Debug\net10.0\C4Zadanie4.sourcelink.json

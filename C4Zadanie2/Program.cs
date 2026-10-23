@@ -1,5 +1,5 @@
 ﻿using System;
-
+/*проверка коммита*/
 class Program
 {
     static void Calculate(double a, double b)

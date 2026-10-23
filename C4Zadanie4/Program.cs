@@ -1,5 +1,5 @@
 ﻿using System;
-
+/* проверка коммита */
 class Program
 {
     static double Add(double a, double b)
